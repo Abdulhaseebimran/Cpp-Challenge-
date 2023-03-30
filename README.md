@@ -1,2 +1,2 @@
 # Cpp-Challenge-
-My New C++ repo 
+This Repository containing C++ programming challenges and solutions.
